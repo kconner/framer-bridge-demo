@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.hoverButton:hover {
+  opacity: 0.5;
+}
