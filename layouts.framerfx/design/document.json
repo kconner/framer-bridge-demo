@@ -29,7 +29,7 @@
             "exportOptions" : [
 
             ],
-            "fillColor" : "rgba(0, 153, 255, 0.5)",
+            "fillColor" : "rgba(255, 153, 255, 0.5)",
             "fillEnabled" : true,
             "fillGradient" : {
               "__class" : "LinearGradient",
@@ -51,7 +51,7 @@
             "isExternalMaster" : null,
             "isMaster" : true,
             "isTarget" : false,
-            "left" : 13,
+            "left" : 113,
             "locked" : false,
             "name" : "navigation",
             "navigationTarget" : null,
